@@ -1,4 +1,4 @@
-# Agenda_Clases_Web
+# WebAgendaNET project
 
 Webforms project in C# for practice
 
